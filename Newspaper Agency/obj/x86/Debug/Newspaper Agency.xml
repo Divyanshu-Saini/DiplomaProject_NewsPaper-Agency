@@ -1,0 +1,172 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+NewspaperAgency
+</name>
+</assembly>
+<members>
+<member name="P:Newspaper_Agency.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Newspaper_Agency.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Newspaper_Agency.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Newspaper_Agency.TestdbDataSet.CustomerdbDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Newspaper_Agency.TestdbDataSet.CustomerRequirementdbDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Newspaper_Agency.TestdbDataSet.CustomersdbDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Newspaper_Agency.TestdbDataSet.LogindbDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Newspaper_Agency.TestdbDataSet.ProductdbDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Newspaper_Agency.TestdbDataSet.SupplierdbDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Newspaper_Agency.TestdbDataSet.SupplierPaymentdbDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Newspaper_Agency.TestdbDataSet.CustomerdbRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Newspaper_Agency.TestdbDataSet.CustomerRequirementdbRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Newspaper_Agency.TestdbDataSet.CustomersdbRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Newspaper_Agency.TestdbDataSet.LogindbRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Newspaper_Agency.TestdbDataSet.ProductdbRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Newspaper_Agency.TestdbDataSet.SupplierdbRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Newspaper_Agency.TestdbDataSet.SupplierPaymentdbRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Newspaper_Agency.TestdbDataSet.CustomerdbRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Newspaper_Agency.TestdbDataSet.CustomerRequirementdbRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Newspaper_Agency.TestdbDataSet.CustomersdbRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Newspaper_Agency.TestdbDataSet.LogindbRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Newspaper_Agency.TestdbDataSet.ProductdbRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Newspaper_Agency.TestdbDataSet.SupplierdbRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Newspaper_Agency.TestdbDataSet.SupplierPaymentdbRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Newspaper_Agency.TestdbDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Newspaper_Agency.TestdbDataSetTableAdapters.CustomerdbTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Newspaper_Agency.TestdbDataSetTableAdapters.CustomerRequirementdbTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Newspaper_Agency.TestdbDataSetTableAdapters.CustomersdbTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Newspaper_Agency.TestdbDataSetTableAdapters.LogindbTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Newspaper_Agency.TestdbDataSetTableAdapters.ProductdbTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Newspaper_Agency.TestdbDataSetTableAdapters.SupplierdbTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Newspaper_Agency.TestdbDataSetTableAdapters.SupplierPaymentdbTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Newspaper_Agency.TestdbDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Newspaper_Agency.TestdbDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Newspaper_Agency.TestdbDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Newspaper_Agency.TestdbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Newspaper_Agency.TestdbDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Newspaper_Agency.TestdbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Newspaper_Agency.TestdbDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Newspaper_Agency.TestdbDataSetTableAdapters.TableAdapterManager.UpdateAll(Newspaper_Agency.TestdbDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Newspaper_Agency.TestdbDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Newspaper_Agency.TestdbDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Newspaper_Agency.TestdbDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

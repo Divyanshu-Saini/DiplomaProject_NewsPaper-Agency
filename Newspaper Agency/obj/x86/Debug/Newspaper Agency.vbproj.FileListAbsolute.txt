@@ -1,0 +1,233 @@
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\bin\Debug\Newspaper Agency.exe
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\bin\Debug\Newspaper Agency.pdb
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\bin\Debug\Newspaper Agency.xml
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmAddAdmin.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmChangePassword.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmCustomer.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmCustomerEdit.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmCustomerFind.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmCustomerNew.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmCustomerRequirement.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmRemoveAdmin.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmSupplierFind.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmProduct.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmProductEdit.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmProductFind.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmProductNew.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmSupplier.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmSupplierEdit.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmSupplierNew.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmSupplierPayment.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmMain.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.Resources.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper Agency.exe
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper Agency.xml
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper Agency.pdb
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmPrepareBill.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmBillBalance.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmBillReceived.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmDailySale.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmMonthlySale.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmLogin.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmFindBill.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmPrintBill.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmSignUp.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmDailyStock.resources
+C:\Users\AKSHAY\Desktop\New folder (3)\Newspaper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper Agency.exe
+C:\Users\AKSHAY\Desktop\New folder (3)\Newspaper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper Agency.xml
+C:\Users\AKSHAY\Desktop\New folder (3)\Newspaper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper Agency.pdb
+C:\Users\AKSHAY\Desktop\New folder (3)\Newspaper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\bin\Debug\Newspaper Agency.exe
+C:\Users\AKSHAY\Desktop\New folder (3)\Newspaper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\bin\Debug\Newspaper Agency.pdb
+C:\Users\AKSHAY\Desktop\New folder (3)\Newspaper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\bin\Debug\Newspaper Agency.xml
+C:\Users\AKSHAY\Desktop\New folder (3)\Newspaper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\AKSHAY\Desktop\New folder (3)\Newspaper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmAddAdmin.resources
+C:\Users\AKSHAY\Desktop\New folder (3)\Newspaper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmBillBalance.resources
+C:\Users\AKSHAY\Desktop\New folder (3)\Newspaper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmBillReceived.resources
+C:\Users\AKSHAY\Desktop\New folder (3)\Newspaper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmChangePassword.resources
+C:\Users\AKSHAY\Desktop\New folder (3)\Newspaper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmCustomer.resources
+C:\Users\AKSHAY\Desktop\New folder (3)\Newspaper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmCustomerEdit.resources
+C:\Users\AKSHAY\Desktop\New folder (3)\Newspaper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmCustomerFind.resources
+C:\Users\AKSHAY\Desktop\New folder (3)\Newspaper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmCustomerNew.resources
+C:\Users\AKSHAY\Desktop\New folder (3)\Newspaper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmCustomerRequirement.resources
+C:\Users\AKSHAY\Desktop\New folder (3)\Newspaper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmDailySale.resources
+C:\Users\AKSHAY\Desktop\New folder (3)\Newspaper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmDailyStock.resources
+C:\Users\AKSHAY\Desktop\New folder (3)\Newspaper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmFindBill.resources
+C:\Users\AKSHAY\Desktop\New folder (3)\Newspaper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmMonthlySale.resources
+C:\Users\AKSHAY\Desktop\New folder (3)\Newspaper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmPrepareBill.resources
+C:\Users\AKSHAY\Desktop\New folder (3)\Newspaper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmPrintBill.resources
+C:\Users\AKSHAY\Desktop\New folder (3)\Newspaper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmRemoveAdmin.resources
+C:\Users\AKSHAY\Desktop\New folder (3)\Newspaper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmSignUp.resources
+C:\Users\AKSHAY\Desktop\New folder (3)\Newspaper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmSupplierFind.resources
+C:\Users\AKSHAY\Desktop\New folder (3)\Newspaper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmProduct.resources
+C:\Users\AKSHAY\Desktop\New folder (3)\Newspaper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmProductEdit.resources
+C:\Users\AKSHAY\Desktop\New folder (3)\Newspaper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmProductFind.resources
+C:\Users\AKSHAY\Desktop\New folder (3)\Newspaper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmProductNew.resources
+C:\Users\AKSHAY\Desktop\New folder (3)\Newspaper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmSupplier.resources
+C:\Users\AKSHAY\Desktop\New folder (3)\Newspaper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmSupplierEdit.resources
+C:\Users\AKSHAY\Desktop\New folder (3)\Newspaper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmSupplierNew.resources
+C:\Users\AKSHAY\Desktop\New folder (3)\Newspaper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmSupplierPayment.resources
+C:\Users\AKSHAY\Desktop\New folder (3)\Newspaper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmLogin.resources
+C:\Users\AKSHAY\Desktop\New folder (3)\Newspaper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmMain.resources
+C:\Users\AKSHAY\Desktop\New folder (3)\Newspaper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.Resources.resources
+C:\Users\AKSHAY\Desktop\New folder (3)\Newspaper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\AKSHAY\Desktop\New folder (3)\Newspaper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\bin\Debug\Newspaper Agency.exe.config
+C:\Users\AKSHAY\Downloads\Compressed\Attachments_2014120\Newspaper Agency\Newspaper Agency\Newspaper Agency\bin\Debug\Newspaper Agency.exe.config
+C:\Users\AKSHAY\Downloads\Compressed\Attachments_2014120\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper Agency.exe
+C:\Users\AKSHAY\Downloads\Compressed\Attachments_2014120\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper Agency.xml
+C:\Users\AKSHAY\Downloads\Compressed\Attachments_2014120\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper Agency.pdb
+C:\Users\AKSHAY\Downloads\Compressed\Attachments_2014120\Newspaper Agency\Newspaper Agency\Newspaper Agency\bin\Debug\Newspaper Agency.exe
+C:\Users\AKSHAY\Downloads\Compressed\Attachments_2014120\Newspaper Agency\Newspaper Agency\Newspaper Agency\bin\Debug\Newspaper Agency.pdb
+C:\Users\AKSHAY\Downloads\Compressed\Attachments_2014120\Newspaper Agency\Newspaper Agency\Newspaper Agency\bin\Debug\Newspaper Agency.xml
+C:\Users\AKSHAY\Downloads\Compressed\Attachments_2014120\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\AKSHAY\Downloads\Compressed\Attachments_2014120\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmAddAdmin.resources
+C:\Users\AKSHAY\Downloads\Compressed\Attachments_2014120\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmBillBalance.resources
+C:\Users\AKSHAY\Downloads\Compressed\Attachments_2014120\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmBillReceived.resources
+C:\Users\AKSHAY\Downloads\Compressed\Attachments_2014120\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmChangePassword.resources
+C:\Users\AKSHAY\Downloads\Compressed\Attachments_2014120\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmCustomer.resources
+C:\Users\AKSHAY\Downloads\Compressed\Attachments_2014120\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmCustomerEdit.resources
+C:\Users\AKSHAY\Downloads\Compressed\Attachments_2014120\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmCustomerFind.resources
+C:\Users\AKSHAY\Downloads\Compressed\Attachments_2014120\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmCustomerNew.resources
+C:\Users\AKSHAY\Downloads\Compressed\Attachments_2014120\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmCustomerRequirement.resources
+C:\Users\AKSHAY\Downloads\Compressed\Attachments_2014120\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmDailySale.resources
+C:\Users\AKSHAY\Downloads\Compressed\Attachments_2014120\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmDailyStock.resources
+C:\Users\AKSHAY\Downloads\Compressed\Attachments_2014120\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmFindBill.resources
+C:\Users\AKSHAY\Downloads\Compressed\Attachments_2014120\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmMonthlySale.resources
+C:\Users\AKSHAY\Downloads\Compressed\Attachments_2014120\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmPrepareBill.resources
+C:\Users\AKSHAY\Downloads\Compressed\Attachments_2014120\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmPrintBill.resources
+C:\Users\AKSHAY\Downloads\Compressed\Attachments_2014120\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmRemoveAdmin.resources
+C:\Users\AKSHAY\Downloads\Compressed\Attachments_2014120\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmSignUp.resources
+C:\Users\AKSHAY\Downloads\Compressed\Attachments_2014120\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmSupplierFind.resources
+C:\Users\AKSHAY\Downloads\Compressed\Attachments_2014120\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmProduct.resources
+C:\Users\AKSHAY\Downloads\Compressed\Attachments_2014120\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmProductEdit.resources
+C:\Users\AKSHAY\Downloads\Compressed\Attachments_2014120\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmProductFind.resources
+C:\Users\AKSHAY\Downloads\Compressed\Attachments_2014120\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmProductNew.resources
+C:\Users\AKSHAY\Downloads\Compressed\Attachments_2014120\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmSupplier.resources
+C:\Users\AKSHAY\Downloads\Compressed\Attachments_2014120\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmSupplierEdit.resources
+C:\Users\AKSHAY\Downloads\Compressed\Attachments_2014120\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmSupplierNew.resources
+C:\Users\AKSHAY\Downloads\Compressed\Attachments_2014120\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmSupplierPayment.resources
+C:\Users\AKSHAY\Downloads\Compressed\Attachments_2014120\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmLogin.resources
+C:\Users\AKSHAY\Downloads\Compressed\Attachments_2014120\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmMain.resources
+C:\Users\AKSHAY\Downloads\Compressed\Attachments_2014120\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.Resources.resources
+C:\Users\AKSHAY\Downloads\Compressed\Attachments_2014120\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\AKSHAY\Downloads\Compressed\Attachments_2014120\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\SuperComp\Desktop\Jan 20   0655\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper Agency.exe
+C:\Users\SuperComp\Desktop\Jan 20   0655\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper Agency.xml
+C:\Users\SuperComp\Desktop\Jan 20   0655\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper Agency.pdb
+C:\Users\SuperComp\Desktop\Jan 20   0655\Newspaper Agency\Newspaper Agency\bin\Debug\Newspaper Agency.exe
+C:\Users\SuperComp\Desktop\Jan 20   0655\Newspaper Agency\Newspaper Agency\bin\Debug\Newspaper Agency.pdb
+C:\Users\SuperComp\Desktop\Jan 20   0655\Newspaper Agency\Newspaper Agency\bin\Debug\Newspaper Agency.xml
+C:\Users\SuperComp\Desktop\Jan 20   0655\Newspaper Agency\Newspaper Agency\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SuperComp\Desktop\Jan 20   0655\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmAddAdmin.resources
+C:\Users\SuperComp\Desktop\Jan 20   0655\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmBillBalance.resources
+C:\Users\SuperComp\Desktop\Jan 20   0655\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmBillReceived.resources
+C:\Users\SuperComp\Desktop\Jan 20   0655\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmChangePassword.resources
+C:\Users\SuperComp\Desktop\Jan 20   0655\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmCustomer.resources
+C:\Users\SuperComp\Desktop\Jan 20   0655\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmCustomerEdit.resources
+C:\Users\SuperComp\Desktop\Jan 20   0655\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmCustomerFind.resources
+C:\Users\SuperComp\Desktop\Jan 20   0655\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmCustomerNew.resources
+C:\Users\SuperComp\Desktop\Jan 20   0655\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmCustomerRequirement.resources
+C:\Users\SuperComp\Desktop\Jan 20   0655\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmDailySale.resources
+C:\Users\SuperComp\Desktop\Jan 20   0655\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmDailyStock.resources
+C:\Users\SuperComp\Desktop\Jan 20   0655\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmFindBill.resources
+C:\Users\SuperComp\Desktop\Jan 20   0655\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmMonthlySale.resources
+C:\Users\SuperComp\Desktop\Jan 20   0655\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmPrepareBill.resources
+C:\Users\SuperComp\Desktop\Jan 20   0655\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmPrintBill.resources
+C:\Users\SuperComp\Desktop\Jan 20   0655\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmRemoveAdmin.resources
+C:\Users\SuperComp\Desktop\Jan 20   0655\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmSignUp.resources
+C:\Users\SuperComp\Desktop\Jan 20   0655\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmSupplierFind.resources
+C:\Users\SuperComp\Desktop\Jan 20   0655\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmProduct.resources
+C:\Users\SuperComp\Desktop\Jan 20   0655\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmProductEdit.resources
+C:\Users\SuperComp\Desktop\Jan 20   0655\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmProductFind.resources
+C:\Users\SuperComp\Desktop\Jan 20   0655\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmProductNew.resources
+C:\Users\SuperComp\Desktop\Jan 20   0655\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmSupplier.resources
+C:\Users\SuperComp\Desktop\Jan 20   0655\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmSupplierEdit.resources
+C:\Users\SuperComp\Desktop\Jan 20   0655\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmSupplierNew.resources
+C:\Users\SuperComp\Desktop\Jan 20   0655\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmSupplierPayment.resources
+C:\Users\SuperComp\Desktop\Jan 20   0655\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmLogin.resources
+C:\Users\SuperComp\Desktop\Jan 20   0655\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmMain.resources
+C:\Users\SuperComp\Desktop\Jan 20   0655\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.Resources.resources
+C:\Users\SuperComp\Desktop\Jan 20   0655\Newspaper Agency\Newspaper Agency\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\SuperComp\Desktop\Jan 20   0655\Newspaper Agency\Newspaper Agency\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper Agency.exe
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper Agency.xml
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper Agency.pdb
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\bin\Debug\Newspaper Agency.exe
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\bin\Debug\Newspaper Agency.pdb
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\bin\Debug\Newspaper Agency.xml
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmAddAdmin.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmBillBalance.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmBillReceived.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmChangePassword.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmCustomer.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmCustomerEdit.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmCustomerFind.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmCustomerNew.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmCustomerRequirement.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmDailySale.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmDailyStock.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmFindBill.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmMonthlySale.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmPrepareBill.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmPrintBill.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmRemoveAdmin.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmSignUp.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmSupplierFind.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmProduct.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmProductEdit.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmProductFind.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmProductNew.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmSupplier.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmSupplierEdit.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmSupplierNew.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmSupplierPayment.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmLogin.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmMain.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.Resources.resources
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\News Paper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\News Paper Agency\Backup\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper Agency.exe
+F:\News Paper Agency\Backup\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper Agency.xml
+F:\News Paper Agency\Backup\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper Agency.pdb
+F:\News Paper Agency\Backup\Newspaper Agency\Newspaper Agency\Newspaper Agency\bin\Debug\Newspaper Agency.exe
+F:\News Paper Agency\Backup\Newspaper Agency\Newspaper Agency\Newspaper Agency\bin\Debug\Newspaper Agency.pdb
+F:\News Paper Agency\Backup\Newspaper Agency\Newspaper Agency\Newspaper Agency\bin\Debug\Newspaper Agency.xml
+F:\News Paper Agency\Backup\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\News Paper Agency\Backup\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmAddAdmin.resources
+F:\News Paper Agency\Backup\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmBillBalance.resources
+F:\News Paper Agency\Backup\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmBillReceived.resources
+F:\News Paper Agency\Backup\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmChangePassword.resources
+F:\News Paper Agency\Backup\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmCustomer.resources
+F:\News Paper Agency\Backup\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmCustomerEdit.resources
+F:\News Paper Agency\Backup\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmCustomerFind.resources
+F:\News Paper Agency\Backup\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmCustomerNew.resources
+F:\News Paper Agency\Backup\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmCustomerRequirement.resources
+F:\News Paper Agency\Backup\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmDailySale.resources
+F:\News Paper Agency\Backup\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmDailyStock.resources
+F:\News Paper Agency\Backup\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmFindBill.resources
+F:\News Paper Agency\Backup\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmMonthlySale.resources
+F:\News Paper Agency\Backup\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmPrepareBill.resources
+F:\News Paper Agency\Backup\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmPrintBill.resources
+F:\News Paper Agency\Backup\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmRemoveAdmin.resources
+F:\News Paper Agency\Backup\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmSignUp.resources
+F:\News Paper Agency\Backup\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmSupplierFind.resources
+F:\News Paper Agency\Backup\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmProduct.resources
+F:\News Paper Agency\Backup\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmProductEdit.resources
+F:\News Paper Agency\Backup\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmProductFind.resources
+F:\News Paper Agency\Backup\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmProductNew.resources
+F:\News Paper Agency\Backup\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmSupplier.resources
+F:\News Paper Agency\Backup\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmSupplierEdit.resources
+F:\News Paper Agency\Backup\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmSupplierNew.resources
+F:\News Paper Agency\Backup\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmSupplierPayment.resources
+F:\News Paper Agency\Backup\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmLogin.resources
+F:\News Paper Agency\Backup\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.frmMain.resources
+F:\News Paper Agency\Backup\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper_Agency.Resources.resources
+F:\News Paper Agency\Backup\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\News Paper Agency\Backup\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\AKSHAY\Desktop\desktop\Newspaper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper Agency.exe
+C:\Users\AKSHAY\Desktop\desktop\Newspaper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper Agency.xml
+C:\Users\AKSHAY\Desktop\desktop\Newspaper Agency\Newspaper Agency\Newspaper Agency\Newspaper Agency\obj\x86\Debug\Newspaper Agency.pdb
